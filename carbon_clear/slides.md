@@ -1,10 +1,6 @@
 ---
-title: CarbonClear: Understanding and Addressing CO2's Role in Climate Change
+title: "CarbonClear: Understanding and Addressing CO₂'s Role in Climate Change"
 theme: seriph
-colorSchema:
-  primary: "#2E8B57"
-  secondary: "#F5F5F5"
-  accent: "#FF6347"
 background: https://images.unsplash.com/photo-1464983953574-0892a716854b?auto=format&fit=crop&w=1200&q=80
 class: text-center
 layout: cover
@@ -12,7 +8,6 @@ transition: slide-left
 drawings:
   persist: false
 mdc: true
---slidenum: false
 ---
 
 # CarbonClear
